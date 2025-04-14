@@ -71,8 +71,7 @@ Customers with low credit scores or high balance are more likely to leave
 Activity status and number of products are strong indicators of loyalty
 
 📊 Final Results
-Best performing model: XGBoost (or replace with your best model)
-
+Best performing model:Random Forest classifier
 Achieved high recall for churn class, useful for retention campaigns
 
 🛠️ Tools & Technologies
@@ -82,7 +81,7 @@ Pandas, NumPy
 
 Seaborn, Matplotlib
 
-Scikit-learn, XGBoost
+Scikit-learn, Random Forest classifier
 
 Jupyter Notebook
 
